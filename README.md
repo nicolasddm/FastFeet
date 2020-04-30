@@ -4,7 +4,6 @@
 ## Sumário 
 
 - [Instalação](#instalação)
-- [Features](#features)
 - [Créditos](#créditos)
 
 ---
